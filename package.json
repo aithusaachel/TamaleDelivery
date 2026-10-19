@@ -1,0 +1,19 @@
+{
+  "name": "tamale-delivery-service",
+  "version": "1.0.0",
+  "description": "Tamale Local Delivery Service - Pilot Platform",
+  "private": true,
+  "scripts": {
+    "test:db": "node supabase/tests/runner.js",
+    "lint": "echo \"Ready for linting\""
+  },
+  "keywords": [
+    "delivery",
+    "tamale",
+    "flutter",
+    "supabase",
+    "postgis"
+  ],
+  "author": "Michael",
+  "license": "UNLICENSED"
+}

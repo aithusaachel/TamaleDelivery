@@ -1,0 +1,11 @@
+{
+    "name": "Tamale Delivery Customer",
+    "short_name": "TamaleDelivery",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F8FAFC",
+    "theme_color": "#2463EB",
+    "description": "Send packages and cargo across Tamale in minutes.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}

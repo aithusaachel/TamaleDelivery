@@ -1,0 +1,47 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Supabase
+.supabase/
+supabase/.temp/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+*.iml
+.idea/
+
+# Android
+**/android/.gradle
+**/android/local.properties
+**/android/app/release/
+**/android/app/debug/
+*.apk
+*.aab
+
+# iOS
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+DerivedData/
+
+# Next.js / Web
+.next/
+out/
+dist/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
